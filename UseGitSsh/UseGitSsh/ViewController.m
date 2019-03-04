@@ -24,7 +24,6 @@
     view.frame = CGRectMake(100, 200, 200, 100);
     [self.view addSubview:view];
     self.view.backgroundColor = [UIColor greenColor];
-    //添加紫色视图
 }
 
 
