@@ -31,6 +31,8 @@
     purView.frame = CGRectMake(100, 400, 200, 100);
     [self.view addSubview:purView];
     
+    NSLog(@"在哪个分支");
+    
 }
 
 
