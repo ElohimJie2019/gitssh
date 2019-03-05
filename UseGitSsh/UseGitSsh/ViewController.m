@@ -25,6 +25,7 @@
     [self.view addSubview:view];
     self.view.backgroundColor = [UIColor greenColor];
 
+    
     //添加紫色视图
     UIView *purView = [[UIView alloc] init];
     purView.backgroundColor = [UIColor purpleColor];
